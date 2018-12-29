@@ -15,11 +15,11 @@ Creates a program that takes a file like WSJ_02-21.pos-chunk as input and produc
 * Applied above features to previous/next 6 words
 
 ## Score
-31390 out of 32853 tags correct
-  accuracy: 95.55
-8378 groups in key
-8870 groups in response
-7624 correct groups
-  precision: 85.95
-  recall:    91.00
-  F1:        88.40
+* 31390 out of 32853 tags correct
+  * accuracy: 95.55
+* 8378 groups in key
+* 8870 groups in response
+* 7624 correct groups
+  * precision: 85.95
+  * recall:    91.00
+  * F1:        88.40
